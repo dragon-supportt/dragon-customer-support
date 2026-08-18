@@ -3,6 +3,7 @@ site_description: Dragon Customer Support Center
 
 theme:
   name: material
+  custom_dir: docs/overrides
 
   features:
     - navigation.top
